@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; }
+.container { width: 80%; margin: 20px auto; padding: 20px; background: white; }
+nav { background: #333; color: white; padding: 10px; display: flex; justify-content: space-between; }
+nav a { color: white; text-decoration: none; margin-right: 10px; }
+.logout { color: red; }
+.dashboard { text-align: center; }
+.grid-container { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+.card { padding: 20px; background: #ddd; text-align: center; }
